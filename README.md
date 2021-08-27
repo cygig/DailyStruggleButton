@@ -9,7 +9,11 @@ Original [meme](https://jake-clark.tumblr.com/post/100946716432) by Jake Clark.
 
 
 # Updates
-- 0.5
+- 0.5.1
+    - Fixed spelling mistakes.
+    - Example file to use <> instead of "".
+    - Changed versioning.
+- 0.5.0
     - First upload.
 
 # Button events
