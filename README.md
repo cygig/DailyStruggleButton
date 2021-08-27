@@ -44,7 +44,6 @@ void myCallback(byte buttonEvent){
 }
 ```
 
----
 
 # Setting up for the example code
 
