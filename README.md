@@ -1,13 +1,9 @@
-﻿﻿# DailyStruggleButton
+﻿# DailyStruggleButton
 DailyStruggleButton is yet another Arduino library to debounce button (push tactile switch) and manage its events. Events supported include pressing, releasing, holding down, long pressing (hold button for x time) and multi-hitting (hit button x times in y  time). For simplicity, there is only one callback function for all events, that passes an identifier as a parameter to indicate the event that just happened. 
 
-
-
 # Updates
-- 0.5
-First upload.
-
-
+-0.5
+ -First upload.
 
 # Button events
 
@@ -48,6 +44,7 @@ void myCallback(byte buttonEvent){
 }
 ```
 
+---
 
 # Setting up for the example code
 
