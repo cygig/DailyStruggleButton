@@ -7,7 +7,7 @@ multi-hitting (hit button x times in y  time). For simplicity, there is only one
 that passes an identifier as a parameter to indicate the event that just happened.
 */
 
-#include "DailyStruggleButton.h"
+#include <DailyStruggleButton.h>
 
 // Time in ms you need to hold down the button to be considered a long press
 unsigned int longPressTime = 1000;
